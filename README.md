@@ -4,10 +4,10 @@
 
 ### Software Engineer & Backend Developer
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alihradwan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alihradwan)
+[![Portfolio](./assets/badges/Portfolio-6366f1.svg)](https://alihradwan.github.io/)
+[![LinkedIn](./assets/badges/LinkedIn-0077B5.svg)](https://linkedin.com/in/alihradwan)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alihradwan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/alihradwan)
+<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/alihradwan) -->
 
 <br>
 
@@ -20,7 +20,7 @@
 ## 🚀 About Me
 
 **Backend Developer (ITI Graduate)** with 1+ years of experience in the complete lifecycle of designing, developing, and deploying scalable, high-performance web applications and **AI-driven solutions**. 
-Specializing in **PHP (Laravel)** and **Node.js (Express)**, with deep experience in building robust server-side logic, creating **RESTful APIs**, and managing complex databases. Possesses working knowledge of frontend frameworks like **React** and **Angular**.
+Specializing in **PHP (Laravel)** and **Node.js (Express)**, with deep experience in building robust server-side logic, creating **RESTful APIs**, and managing complex databases. Possess working knowledge of frontend frameworks like **React**.
 Brings hands-on experience in DevOps practices (**Docker**, **Nginx**, **AWS**, **CI/CD**) and a strong focus on maintaining code quality in agile teams.
 <br>
 
@@ -43,8 +43,9 @@ Brings hands-on experience in DevOps practices (**Docker**, **Nginx**, **AWS**, 
 <summary><b>Databases</b></summary>
 <br>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1179A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -55,10 +56,12 @@ Brings hands-on experience in DevOps practices (**Docker**, **Nginx**, **AWS**, 
 <summary><b>DevOps & Cloud</b></summary>
 <br>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![AWS](./assets/icons/AWS-232F3E.svg)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 </details>
@@ -67,13 +70,14 @@ Brings hands-on experience in DevOps practices (**Docker**, **Nginx**, **AWS**, 
 <summary><b>Frontend</b></summary>
 <br>
 
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=black) -->
+<!-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS3](./assets/icons/CSS3-1572B6.svg)
 
 </details>
 
@@ -81,36 +85,47 @@ Brings hands-on experience in DevOps practices (**Docker**, **Nginx**, **AWS**, 
 
 ## 📂 Featured Projects
 
-### 🤖 AI Concierge System
+### 🎟️ LaraTicket — Event Ticketing Platform
+> Full-stack event ticketing platform with a decoupled SPA architecture.
+
+| | |
+|---|---|
+| **Tech** | Laravel, Vue.js, TailwindCSS, MySQL, Redis, Stripe |
+| **Features** | Sanctum Auth, Email Verification, Stripe Checkout, Webhook Processing, Filament Admin Dashboard, Image Optimization, Pest Testing, Scramble API Documentation |
+| **Links** | [![Demo](https://img.shields.io/badge/Video_Demo-ff0000?style=flat-square&logo=youtube)](https://youtu.be/_3LmZhpbWjg) [![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://https://github.com/alihradwan/LaraTicket) |
+
+---
+
+### 🤖 SwiftHost — AI Concierge System
 > A multilingual agentic AI concierge for automated guest support and service management.
 
 | | |
 |---|---|
 | **Tech** | Laravel, React, FastAPI, MySQL, PostgreSQL, AWS, n8n |
 | **Features** | Automated Ticketing, RAG-based AI Chatbot, Telegram Integration, Admin Dashboard |
-| **Links** | [![Live Demo](https://img.shields.io/badge/Live-Demo-22d3ee?style=flat-square)](https://concierge.ddns.net) [![GitHub](https://img.shields.io/badge/GitHub-Repo-22d3ee?style=flat-square&logo=github)](https://github.com/alihradwan/ITI-Graduation-Project) |
+| **Links** | [![Demo](https://img.shields.io/badge/Video_Demo-ff0000?style=flat-square&logo=youtube)](https://youtu.be/Ion_4RaKAfs) [![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/alihradwan/ITI-Graduation-Project) |
 
 ---
 
-### 📚 Bookstore E-Commerce
+### 📚 Bookly — Bookstore E-Commerce
 > Full-stack bookstore with modern e-commerce features.
 
 | | |
 |---|---|
 | **Tech** | Node.js, Express.js, Angular, MongoDB Atlas, Redis, AWS |
 | **Features** | JWT Auth, Email Verification, WebSocket Notifications, AI Chatbot, Stripe Payments |
-| **Links** | [![Live Demo](https://img.shields.io/badge/Live-Demo-22d3ee?style=flat-square)](https://bookly.duckdns.org) [![GitHub](https://img.shields.io/badge/GitHub-Repo-22d3ee?style=flat-square&logo=github)](https://github.com/alihradwan/Node-Project) |
+| **Links** | [![Demo](https://img.shields.io/badge/Video_Demo-ff0000?style=flat-square&logo=youtube)](https://youtu.be/yNnAecYfBzo) [![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/alihradwan/Node-Project) |
 
 ---
 
-### 👗 Fashion E-Commerce
+### 👕 MAYA — Fashion E-Commerce
 > Serverless fashion store with comprehensive admin features.
 
 | | |
 |---|---|
 | **Tech** | Firebase, Firestore, Vanilla JS, Cloudinary |
 | **Features** | Admin Dashboard, User Profiles, Stock Management, Stripe Payments |
-| **Links** | [![Live Demo](https://img.shields.io/badge/Live-Demo-22d3ee?style=flat-square)](https://brand-website-ce759.web.app) [![GitHub](https://img.shields.io/badge/GitHub-Repo-22d3ee?style=flat-square&logo=github)](https://github.com/alihradwan/JS-Project) |
+| **Links** | [![Demo](https://img.shields.io/badge/Video_Demo-ff0000?style=flat-square&logo=youtube)](https://youtu.be/ltAtjIxwwT0) [![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/alihradwan/JS-Project) |
 
 <br>
 
@@ -129,7 +144,7 @@ Brings hands-on experience in DevOps practices (**Docker**, **Nginx**, **AWS**, 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alihradwan@outlook.com)
+[![Email](./assets/badges/Email_Me-0A63F5.svg)](mailto:alihradwan@outlook.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201001192593)
 
 </div>
