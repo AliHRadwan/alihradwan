@@ -4,9 +4,9 @@
 
 ### Software Engineer & Backend Developer
 
-[![Portfolio](./assets/badges/Portfolio-6366f1.svg)](https://alihradwan.github.io/)
-[![LinkedIn](./assets/badges/LinkedIn-0077B5.svg)](https://linkedin.com/in/alihradwan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alihradwan)
+[![Portfolio](./assets/badges/Portfolio-4EAA25.svg)](https://alihradwan.github.io)
+[![LinkedIn](./assets/badges/LinkedIn-2088FF.svg)](https://linkedin.com/in/alihradwan)
+[![GitHub](https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alihradwan)
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/alihradwan) -->
 
 <br>
@@ -44,7 +44,7 @@ Brings hands-on experience in DevOps practices (**Docker**, **Nginx**, **AWS**, 
 <br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1179A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-de8605?style=flat-square&logo=mysql&logoColor=blue)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -92,7 +92,7 @@ Brings hands-on experience in DevOps practices (**Docker**, **Nginx**, **AWS**, 
 |---|---|
 | **Tech** | Laravel, Vue.js, TailwindCSS, MySQL, Redis, Stripe |
 | **Features** | Sanctum Auth, Email Verification, Stripe Checkout, Webhook Processing, Filament Admin Dashboard, Image Optimization, Pest Testing, Scramble API Documentation |
-| **Links** | [![Demo](https://img.shields.io/badge/Video_Demo-ff0000?style=flat-square&logo=youtube)](https://youtu.be/_3LmZhpbWjg) [![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://https://github.com/alihradwan/LaraTicket) |
+| **Links** | [![Demo](https://img.shields.io/badge/Video_Demo-ff0000?style=flat-square&logo=youtube)](https://youtu.be/_3LmZhpbWjg) [![GitHub](https://img.shields.io/badge/GitHub_Repo-8b5cf6?style=flat-square&logo=github)](https://https://github.com/alihradwan/LaraTicket) |
 
 ---
 
@@ -103,7 +103,7 @@ Brings hands-on experience in DevOps practices (**Docker**, **Nginx**, **AWS**, 
 |---|---|
 | **Tech** | Laravel, React, FastAPI, MySQL, PostgreSQL, AWS, n8n |
 | **Features** | Automated Ticketing, RAG-based AI Chatbot, Telegram Integration, Admin Dashboard |
-| **Links** | [![Demo](https://img.shields.io/badge/Video_Demo-ff0000?style=flat-square&logo=youtube)](https://youtu.be/Ion_4RaKAfs) [![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/alihradwan/ITI-Graduation-Project) |
+| **Links** | [![Demo](https://img.shields.io/badge/Video_Demo-ff0000?style=flat-square&logo=youtube)](https://youtu.be/Ion_4RaKAfs) [![GitHub](https://img.shields.io/badge/GitHub_Repo-8b5cf6?style=flat-square&logo=github)](https://github.com/alihradwan/ITI-Graduation-Project) |
 
 ---
 
@@ -114,7 +114,7 @@ Brings hands-on experience in DevOps practices (**Docker**, **Nginx**, **AWS**, 
 |---|---|
 | **Tech** | Node.js, Express.js, Angular, MongoDB Atlas, Redis, AWS |
 | **Features** | JWT Auth, Email Verification, WebSocket Notifications, AI Chatbot, Stripe Payments |
-| **Links** | [![Demo](https://img.shields.io/badge/Video_Demo-ff0000?style=flat-square&logo=youtube)](https://youtu.be/yNnAecYfBzo) [![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/alihradwan/Node-Project) |
+| **Links** | [![Demo](https://img.shields.io/badge/Video_Demo-ff0000?style=flat-square&logo=youtube)](https://youtu.be/yNnAecYfBzo) [![GitHub](https://img.shields.io/badge/GitHub_Repo-8b5cf6?style=flat-square&logo=github)](https://github.com/alihradwan/Node-Project) |
 
 ---
 
@@ -125,7 +125,7 @@ Brings hands-on experience in DevOps practices (**Docker**, **Nginx**, **AWS**, 
 |---|---|
 | **Tech** | Firebase, Firestore, Vanilla JS, Cloudinary |
 | **Features** | Admin Dashboard, User Profiles, Stock Management, Stripe Payments |
-| **Links** | [![Demo](https://img.shields.io/badge/Video_Demo-ff0000?style=flat-square&logo=youtube)](https://youtu.be/ltAtjIxwwT0) [![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/alihradwan/JS-Project) |
+| **Links** | [![Demo](https://img.shields.io/badge/Video_Demo-ff0000?style=flat-square&logo=youtube)](https://youtu.be/ltAtjIxwwT0) [![GitHub](https://img.shields.io/badge/GitHub_Repo-8b5cf6?style=flat-square&logo=github)](https://github.com/alihradwan/JS-Project) |
 
 <br>
 
